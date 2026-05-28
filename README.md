@@ -57,9 +57,12 @@ Place and connect the following components:
   - FWHM width of optical spectra  
 
 ---
+## Calculation
+<img width="918" height="1358" alt="image" src="https://github.com/user-attachments/assets/fd953ee1-a21b-4207-9feb-4af56dd0cabe" />
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ccb249b4-dc5b-4392-a1f5-0780a8ec38fb" />
 
 
 ---
